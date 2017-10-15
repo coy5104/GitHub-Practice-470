@@ -41,3 +41,4 @@ Assignment (10 pts):
 | Daniel Jang | danjang123 | <https://danjang123.github.io/Repo-Demo/> |
 | Caihui Xiao | cqx5037 | <https://cqx5037.github.io/repo_domo_-/>|
 | Kiera Murphy | kmurphy620 | <https://github.com/kmurphy620/Repo-demo> |
+| Christine Yin | coy5104 | <https://coy5104.github.io/Stat470W_Demo/> |
